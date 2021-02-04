@@ -1,4 +1,4 @@
 # PegadaianCICD
 Pegadaian CI/CD
 
-Edited
+edited
